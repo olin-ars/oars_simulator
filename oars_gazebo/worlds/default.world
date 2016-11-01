@@ -18,5 +18,9 @@
 				</clouds>
 			</sky>
 		</scene>
+
+		<!-- World Plugin Example
+		 <plugin name="oars_plugin" filename="liboars_plugin.so"/>
+		-->
 	</world>
 </sdf>
